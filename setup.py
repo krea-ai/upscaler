@@ -21,9 +21,5 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires=">=3.7",
     install_requires=[
-        "torch==1.7.1",
-        "pillow==8.4.0",
-        "torchvision==0.8.2",
-        "tqdm==4.62.3",
     ],
 )
